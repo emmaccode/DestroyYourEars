@@ -10,7 +10,6 @@
 
 from gi.repository import Gtk, GdkPixbuf, Gdk
 import os, sys
-]
 UI_FILE = "gtkui.ui"
 #UI_FILE = "/usr/local/share/pygtk_foobar/ui/pygtk_foobar.ui"
 import winsound
